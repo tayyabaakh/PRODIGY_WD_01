@@ -36,6 +36,6 @@ Adds interactivity, smooth scrolling, and dynamic functionality.
 ## How to Use
 
 Clone the repository:
-
+```bash
 git clone https://github.com/tayyabaakh/PRODIGY_WD_01.git  
 
