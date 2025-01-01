@@ -37,5 +37,5 @@ Adds interactivity, smooth scrolling, and dynamic functionality.
 
 Clone the repository:
 
-git clone https://github.com/your-repo-name/technova-landing-page.git  
+git clone https://github.com/tayyabaakh/PRODIGY_WD_01.git  
 
